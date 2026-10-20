@@ -50,5 +50,3 @@ Não é necessário instalar dependências ou configurar um servidor.
 # 👨‍💻 Autor
 
 **Rafael Silveira**
-
-Projeto desenvolvido para fins acadêmicos e como prática de desenvolvimento Front-End.
