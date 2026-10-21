@@ -6,7 +6,7 @@
 
 O **Top-Point** é um sistema web de registro de ponto desenvolvido como projeto acadêmico utilizando **HTML, CSS e JavaScript**.
 
-A aplicação permite cadastrar funcionários, registrar a jornada de trabalho e acompanhar as informações em um dashboard moderno e intuitivo. Os dados são armazenados localmente por meio do **LocalStorage**, dispensando o uso de banco de dados nesta versão.
+A aplicação permite cadastrar funcionários, registrar a jornada de trabalho e acompanhar as informações em modelo moderno e intuitivo. Os dados são armazenados localmente por meio do **LocalStorage**, dispensando o uso de banco de dados nesta versão.
 
 ---
 
